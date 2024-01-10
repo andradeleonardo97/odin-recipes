@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    background-color: rgb(241, 241, 69);
+    color: black;
+
+}
+
+p{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+ol {
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+
+}
+
+button {
+    color: black;
+    background-color: yellow;
+    font-size: 20px;
+}
